@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/scorecard_entrevista_makinghr.html" }
+    { "source": "/", "destination": "/Scorecard de entrevista_ MakingHR.html" }
   ]
 }
